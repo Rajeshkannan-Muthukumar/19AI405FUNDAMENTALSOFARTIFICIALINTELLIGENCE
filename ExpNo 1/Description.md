@@ -62,8 +62,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 ## code
 ```
-Name: Rakshitha Devi J
-Register Number:212221230082
+Name: Rajeshkannan.M
+Register Number:212221230081
 ```
 ```
 from collections import defaultdict

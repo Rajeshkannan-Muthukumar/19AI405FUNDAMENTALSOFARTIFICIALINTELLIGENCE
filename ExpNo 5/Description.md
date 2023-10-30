@@ -103,8 +103,8 @@ end
 
 ## Code:
 ```
-Name:Rakshitha Devi J
-Reg no:212221230082
+Name: Rajeshkannan.M
+Register Number:212221230081
 ```
 ```
 import time

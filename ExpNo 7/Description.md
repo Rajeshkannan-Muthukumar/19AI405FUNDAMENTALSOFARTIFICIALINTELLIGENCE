@@ -72,8 +72,8 @@ Begin<br>
 End<br>
 ## Code:
 ```
-Name:Rakshitha Devi J
-Reg no:212221230082
+Name: Rajeshkannan.M
+Register Number:212221230081
 ```
 ```
 from itertools import permutations

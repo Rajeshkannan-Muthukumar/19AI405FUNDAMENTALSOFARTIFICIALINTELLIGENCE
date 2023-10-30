@@ -23,8 +23,8 @@ It is assumed that there will always be a safe path that the agent can take to e
 
 ## Code:
 ```
-Name:Rakshitha Devi J
-Reg no:212221230082
+Name: Rajeshkannan.M
+Register Number:212221230081
 ```
 ```
 wumpus=[["Save","Breeze","PIT","Breeze"],
